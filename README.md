@@ -198,5 +198,5 @@ JavaScript позволяет устанавливать значение `this`
     }, '21 y.o.');
     
     newIvanSay();
-    // Sergey 3 Belov: 21 y.o.
+    // Sergey Belov: 21 y.o.
 ```
